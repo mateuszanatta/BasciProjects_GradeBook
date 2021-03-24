@@ -23,7 +23,7 @@
     
 ## Run Tests
 
-2. Go to ```src/GradeBook.Tests ```, run
+2. Go to ```test/GradeBook.Tests ```, run
     ```sh
         dotnet run
     ```
